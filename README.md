@@ -9,7 +9,7 @@
 - `calculate_bounds.py` generate baseline and tightened consideration probability bounds.
 - `state_bounds_demo.py` replicates the calculations of consideration probability bounds for the 50 U.S. states from the Putnam dataset.
 
-### Instructions to replicate bounds on U.S. state consideration probabilities from section 6: 
+### Instructions to replicate bounds on U.S. state consideration probabilities from section 7: 
 
 1. Copy `State Narcissism Scrubbed Data.csv` from [Putnam et al, 2018](https://osf.io/tnjqs/)  into `data/`
 2. Run `state_bounds_demo.py` to display initial and tightened lower and upper bounds on consideration probabilities for each state, sorted in descending order of final upper bound.
